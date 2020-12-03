@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <!--Часовой сдвиг-->
+    <timeshift_hourse>-4</timeshift_hourse>
+    <!--Рабочая директория-->
+    <work_path>D:\-=DATA=-\STORE</work_path>
+    <!--Графика-->
+    <!--Толщина линий-->
+    <main_line_width>2.5</main_line_width>
+    <!--Качество отрисовки-->
+    <quality>0</quality>
+    <!--Вкл..выкл точки-->
+    <dots_on>0</dots_on>
+    <!--Вкл..выкл точки-->
+    <dots_width>1</dots_width>
+</Settings>
