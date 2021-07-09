@@ -8,7 +8,7 @@ object Form1: TForm1
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
-  Font.Height = -1ew
+  Font.Height = -134
   Font.Name = 'MS Sans Serif'
   Font.Style = []
   Icon.Data = {
